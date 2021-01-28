@@ -4,6 +4,10 @@
 body{
     background-color: #1d2124;
 }
-h1,h2,h3,h4,h5,h6,p,b,a{
+h1,h2,h3,h4,h5,h6,p,b,a,table,tr,td,th,ul,li,ol{
     color: white;
+}
+.icon{
+    width: 18px;
+    height: 18px;
 }
