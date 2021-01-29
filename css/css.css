@@ -11,3 +11,12 @@ h1,h2,h3,h4,h5,h6,p,b,a,table,tr,td,th,ul,li,ol{
     width: 18px;
     height: 18px;
 }
+a{
+    font-weight: 700;
+    color: red;
+    text-decoration: underline;
+}
+.tieude{
+    font-weight: 700;
+    font-size: 25px;
+}
