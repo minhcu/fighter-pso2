@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    font-family: 'Mulish', sans-serif;
+}
+.header-image{
+    background-image: url('/img/fighter-pain.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
+}
+.header-image__content-box{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.header-image__title{
+    font-size: 50px;
+    font-weight: 700;
+}
+.body{
+    height: 500px;
+}
+.header{
+    height: 42px;
+}
+.footer{
+    height: 30vh;
+}
