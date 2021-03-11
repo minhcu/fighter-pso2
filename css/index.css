@@ -2,6 +2,9 @@
 body{
     font-family: 'Mulish', sans-serif;
 }
+.header{
+    position: fixed;
+}
 .header-image{
     background-image: url('/img/fighter-pain.png');
     background-repeat: no-repeat;
